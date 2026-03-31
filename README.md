@@ -3,7 +3,9 @@ Configuração inicial pagina github
 
 # titulo1
 
-![carro final](./power_board/images/photo_01.jpg)
+![alternativol]([./power_board/images/photo_01.jpg](https://github.com/PedroThomaz/Exemplo/blob/main/photo_01.jpg)
+
+<span>Descricao da imagem</span>
 
 ## Informações gerais
 
